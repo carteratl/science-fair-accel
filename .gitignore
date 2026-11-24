@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Local data from test runs (real data lives on the Pi in ~/accel-data)
+accel-data/
+*.part
